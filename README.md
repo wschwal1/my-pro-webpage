@@ -1,7 +1,3 @@
 # my-pro-webpage
 
-## Purpose
-- gather thoughts and ideas
-- develop a strategy
-
-for developing a professional website as a historian.
+This space is dedicated to my website as an "aspiring historian." Please click on the respective link in the files above.
